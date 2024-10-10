@@ -1,0 +1,1 @@
+aws s3 cp static-website-example-master s3://host-static-web-01 --recursive
